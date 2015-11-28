@@ -15,7 +15,7 @@ System password: vagrant
 	e. Navigate to /home/vagrant/Downloads
 	f. Select the @Patterns_7_JAVAUTIL_110404 directory and click OK.
 
-4. There is some sample code already in the eclipse editor. Place the cursor anywhere AFTER the ArrayList declaration and BEFORE the closing brace of the testDemo() method inside the testDemo() method. If you want to add more code, make sure you add classes which are present in java.util library.
+4. There is some sample code already in the eclipse editor. Place the cursor anywhere inside the GraPaccTest() method between the curly braces. If you want to add more code, make sure you add classes which are present in java.util or java.io library.
 
 5. Hit 'Ctrl+Space'.
 
