@@ -1,0 +1,42 @@
+===== Installation manual =====
+
+*** This tool works only with Eclipse 3.6.2 and Java 1.7 ***
+
+Taken from the GraPacc website at http://home.engineering.iastate.edu/~anhnt/Research/GraPacc/?page=download
+
+1. Download Eclipse Classic 3.6.2 from this website -> http://www.eclipse.org/downloads/packages/eclipse-classic-362/heliossr2
+
+2. Download the GraPacc plug-in from this link -> http://home.engineering.iastate.edu/~anhnt/Research/GraPacc/Files/GrapaccPlugin.zip 
+
+3. Unzip the zipped package.
+
+4. Install the plug-in using the following steps.
+    4.1. Inside Eclipse, choose Help -> Install New Software
+    4.2. In the Install, press Add.
+    4.3. In Add Repository, press Local and then Choose the plugin directory and press OK
+    4.4. Type the name of the repository as "GraPacc" and press OK.
+    4.5. In the Install window, check the plug-in and press Next.
+    4.6. When a new window appearing to inform about plug-ins, press Next, then accept the aggreement and press Finish
+    4.7. There will be a warning during installation, press OK to accept
+    4.8. After finishing installation, press Restart Now to restart Eclipse with installed GraPacc plug-in.
+
+5. Add the View
+    5.1. Open Control View
+        5.1.1. Choose Window -> Show View -> Other
+        5.1.2. Choose CodeCompletion -> CodeCompletionControl
+    5.2. Download and open pattern database in the view
+        5.2.1. Download pattern from this link -> http://home.engineering.iastate.edu/~anhnt/Research/GraPacc/Files/PatternsJAVAUTIL110404.zip
+        5.2.2. Unzip the package
+        5.2.3. In the CodeCompletionControl view, press the button with the Database icon to open the directory dialog.
+        5.2.4. Use the directory box to choose the directory and press OK
+
+6. Invoking GraPacc
+    6.1. Add new Java project.
+    6.2. Add new Class.
+    6.3. Add demo method (or code in main method).
+    6.4. Import some java.util classes like ArrayList, Scanner.
+    6.5. Declare one object of each of these classes.
+    6.6. Place cursor between first object declaration end of line and closing brace of method.
+    6.7. Press 'Ctrl + space' to invoke GraPacc. You should be able to see a list of patterns being offered.
+
+7. Press 'Tab' to select one of the patterns and hit 'Enter' to insert the code into the editor. 
