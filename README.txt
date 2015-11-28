@@ -36,9 +36,9 @@ and so on.
 10. This tool works almost as mentioned in the paper. Almost works, in the sense that if there are 20 patterns generated, maybe 2 or 3 of them might not get inserted after selecting them. They will still, however, be offered as a pattern, which the user can read and type as per his convenience. 
 
 11. Sometimes, the tool might generate some intermediate files in either the home folder or the desktop. Do not worry about these files. The files are:
-* ppa_new.log
-* OutFeatures\
-* OutFeatures\0DotGraph\
+	ppa_new.log
+	OutFeatures\
+	OutFeatures\0DotGraph\
 
 ===== Other information =====
 
