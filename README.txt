@@ -12,7 +12,7 @@ System password: vagrant
 	b. Under Code completion, select CodeCompletionControl
 	c. Click OK
 	d. Press F5 to open database or to the right of the view, click the icon that looks like a disk.
-	e. Navigate to /home/adminuser/Downloads
+	e. Navigate to /home/vagrant/Downloads
 	f. Select the @Patterns_7_JAVAUTIL_110404 directory and click OK.
 
 4. There is some sample code already in the eclipse editor. Place the cursor anywhere AFTER the ArrayList declaration and BEFORE the closing brace of the testDemo() method inside the testDemo() method. If you want to add more code, make sure you add classes which are present in java.util library.
@@ -45,8 +45,7 @@ and so on.
 The desktop has the following files
 1. ToolDemo-YouTube: Link to executable for starting firefox and opening the YouTube link for the tool demo screencast. Double click and select "Run" when prompted.
 2. README.txt: This file
-3. Eclipse: Link to eclipse executable.
-4. GraPaccWeb: Folder containing binary for tool
-5. Installation.txt: Steps to install the GraPacc tool.
-6. Licenses.txt: Contains the Oracle Binary Code License and the GNU General Public License.
+3. Eclipse IDE: Link to eclipse executable.
+4. Installation.txt: Steps to install the GraPacc tool.
+5. Licenses.txt: Contains the Oracle Binary Code License and the GNU General Public License.
 
