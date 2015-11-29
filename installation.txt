@@ -4,7 +4,7 @@
 
 Taken from the GraPacc website at http://home.engineering.iastate.edu/~anhnt/Research/GraPacc/?page=download
 
-1. Download Eclipse Classic 3.6.2 from this website -> http://www.eclipse.org/downloads/packages/eclipse-classic-362/heliossr2
+1. Download Eclipse Classic 3.6.2 from this website -> http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/heliossr2
 
 2. Download the GraPacc plug-in from this link -> http://home.engineering.iastate.edu/~anhnt/Research/GraPacc/Files/GrapaccPlugin.zip 
 
